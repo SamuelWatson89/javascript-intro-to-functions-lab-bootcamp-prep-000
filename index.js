@@ -34,3 +34,5 @@ function sayHiToGrandma(string) {
   else if (uppercase) return ('YES INDEED!');
   else return ("I love you,too.")
 }
+
+sayHiToGrandma("HELLO")
