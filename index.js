@@ -12,6 +12,7 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
+
 function shout(string) {
   return string.toUpperCase()
 }
