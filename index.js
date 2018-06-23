@@ -30,5 +30,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return string.uppercase()
+  console.log('string')
 }
