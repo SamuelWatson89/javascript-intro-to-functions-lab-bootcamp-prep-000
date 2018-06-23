@@ -6,7 +6,7 @@ var lowercase = 'hello'
  
 lowercase.toLowerCase() === lowercase // true
  
-var mixedCase = 'Hi there!'
+var mixedCase = 'Hi there'
  
 mixedCase.toLowerCase() === mixedCase // false
  
@@ -30,6 +30,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return string(uppercase)
-}
+  return 
 
